@@ -10,13 +10,13 @@
 	],
 	"require": {
 		"composer/installers": "*",
-		"mnsami/composer-custom-directory-installer": "^2.0",
-		"oscarotero/env": "^2.1",
-		"roots/bedrock-autoloader": "^1.0",
-		"roots/bedrock-disallow-indexing": "^2.0",
-		"roots/wordpress": "5.7.5",
-		"roots/wp-config": "1.0.0",
-		"roots/wp-password-bcrypt": "1.1.0"
+		"mnsami/composer-custom-directory-installer": "*",
+		"oscarotero/env": "*",
+		"roots/bedrock-autoloader": "*",
+		"roots/bedrock-disallow-indexing": "*",
+		"roots/wordpress": "*",
+		"roots/wp-config": "*",
+		"roots/wp-password-bcrypt": "*"
 	},
 	"autoload": {
 		"psr-4": {
